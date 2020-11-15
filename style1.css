@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 20;
+}
+hi {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: white;
+}
+h2 {
+    font-size: 10x;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+header,section, article {
+    
+    display: block;
+}
+header {
+    font-size: 15px;
+    font-family: sans-serif; 
+    color: white; 
+}
+body {
+
+    text-align: center;
+   
+}
+.agrupar {
+    background-color: rgb(49, 0, 128);
+    width: 960px;
+    margin: 30px auto;
+    padding: 20px; 
+    border: 1px solid black;
+}
+article {
+    background: rgb(0, 110, 255);
+    border: 1px solid grey;
+    padding: 10px;
+    margin-bottom: 20px ;
+}
+img {
+    width: 200px;
+    display: block;
+    margin: 20px auto;
+}

@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+hi {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+h2 {
+    font: bold 14px sans-serif;
+}
+
+header,section, footer, aside, nav, article {
+    
+    display: block;
+}
+body {
+
+    text-align: center;
+}
+.agrupar {
+    background-color: rgb(49, 0, 128);
+    width: 960px;
+    margin: 30px auto;
+    padding: 20px; 
+    border: 1px solid black;
+}
+.header {
+    background-color:#b9f7ff;
+    border: 1px solid black;
+    padding: 20px;
+}
+.menu {
+    background-color:#b9baff;
+    border: 1px solid black;
+    padding: 5px  15px;
+}
+.menu li {
+    list-style: none;
+    border: 1px solid;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+}
+.seccion {
+    border: 1ox solid black;
+    background:  rgb(49, 0, 128e);
+    margin: 20px;
+    width: 600px;
+    float: left;
+}
+article {
+    background: rgb(174, 0, 255);
+    border: 1px solid grey;
+    padding: 10px;
+    margin-bottom: 20px ;
+}
+time {
+    color: indigo;
+}
+article footer{
+    text-align: right;
+}
+.columna {
+    width: 250px;
+    float: left;
+    background:  rgb(49, 0, 128e);
+    margin: 20px;
+}
+.columna blockquote {
+    border: 1px solid black;
+    padding: 40px;
+    background: rgb(216, 205, 255);
+    margin-bottom: 20px;
+}
+.pie {
+    clear: both;
+    padding: 20px;
+    background: rgb(130, 20, 220);
+    color: #fffbb9;
+}
+img {
+    width: 200px;
+    display: block;
+    margin: 20px auto;
+}
+.addres {
+   background-color: white;
+   
+}
